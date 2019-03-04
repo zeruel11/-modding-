@@ -1,0 +1,7 @@
+*.nif filter=lfs diff=lfs merge=lfs -text
+*.dds filter=lfs diff=lfs merge=lfs -text
+*.ba2 filter=lfs diff=lfs merge=lfs -text
+*.BGSM filter=lfs diff=lfs merge=lfs -text
+*.bgsm filter=lfs diff=lfs merge=lfs -text
+*.BGSE filter=lfs diff=lfs merge=lfs -text
+*.bgse filter=lfs diff=lfs merge=lfs -text
