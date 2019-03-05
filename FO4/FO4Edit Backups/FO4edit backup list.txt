@@ -1,3 +1,4 @@
 myCompatibilityPatches.esp.backup.2019_03_03_18_02_16_3 >> pre cigars
 myCompatibilityPatches.esp.backup.2019_03_04_01_44_58_1 >> pre fortaleza outfit
 myCompatibilityPatches.esp.backup.2019_03_04_20_04_25 >> pre shino KWDA patch
+myCompatibilityPatches.esp.backup.2019_03_05_13_16_55 >> pre More Smarter Companion edit
