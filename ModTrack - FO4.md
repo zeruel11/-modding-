@@ -13,7 +13,9 @@ Darker Night + WestTek Tactical[^BEBDE78F]
 New Calibers + VIS-G Item Sorting (and maybe VIS-G Legendary)[^378F4450]
 Smokable Cigars (Hardcore Patch) + VIS-G[^3ECF7B48]
 Fortaleza Armor (+AE) + VIS-G[^C538C2B1]
-CROSS_2077 + Fortaleza + Shino_VaultPack _UniquePC_ + _armorConversion_[^43F8030E]
+CROSS_2077 + CROSS_HandMaiden + Fortaleza + Shino_VaultPack _UniquePC_ + _armorConversion_[^43F8030E]
+More Smarter Companions Mod + Creative Perks[^18EE74EF]
+MAID Assaultron + Humanoid Assaultrons[^22E1BF3C]
 
 [^4652CD7D]: Moved COBJ to AWKCR workbenches and uses VIS-G sorting. Manual armor KWDA edit needed, needs doing:
     - [x] Vault Closed
@@ -29,7 +31,10 @@ CROSS_2077 + Fortaleza + Shino_VaultPack _UniquePC_ + _armorConversion_[^43F8030
 [^C538C2B1]: Added VIS-G tags to armors. Also need to convert to Fusion Body.
 [^43F8030E]: Changing 1st person body to use Unique PC synth arm:
     - [x] CROSS 2077
+    - [x] CROSS TheKite_HandMaiden
     - [ ] Fortaleza Armor
     - [ ] Shino Vault Pack
+[^18EE74EF]: Modifies some NPC data to better match UF4P and used Eli's Courser outfit. Also changes some companion perk bonus with More Smarter Companion.
+[^22E1BF3C]: Combined workbench edits. Also added head laser enchantments to MAID head.
 
 ## bashedPatch (tags)

@@ -3,18 +3,18 @@
 Clothes converting to FusionBody: (needs reconverting due to update!!!)
     - [x] Vault Closed
     - [x] Vault Top Open
-    - [ ] Vault Half-Open
-    - [ ] Vault Open
-    - [ ] Vault Open Sexy
+    - [x] Vault Half-Open
+    - [x] Vault Open
+    - [x] Vault Open Sexy
     - [x] 1st person Closed
 
 Bodyslide edit RoboLeg and SynthArm:
     - [x] Vault Closed
     - [x] Vault Top Open
-    - [ ] Vault Half-Open
-    - [ ] Vault Open
-    - [ ] Vault Open Sexy
-    - [x] 1st person Closed
+    - [x] Vault Half-Open
+    - [x] Vault Open
+    - [x] Vault Open Sexy
+    - [ ] 1st person Closed
 
 KWDA
 ma_Railroad_ClothingArmor [KYWD:0020DE40]
