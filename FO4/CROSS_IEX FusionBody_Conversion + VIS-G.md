@@ -5,30 +5,32 @@ Clothes converting to FusionBody: (needs reconverting due to update!!!)
     - [x] ret Outfit Undershirt
     - [x] ret Outfit 01
     - [x] ret Outfit 01_1st
-    - [ ] ret Outfit 02
-    - [ ] ret Outfit 02_1st
+    - [x] ret Outfit 02
+    - [x] ret Outfit 02_1st
     - [x] ret Outfit 03
     - [x] ret Outfit 04
-    - [ ] ret Outfit 05
-    - [ ] ret Outfit 06
-    - [ ] ret Outfit 07
+    - [x] ret Outfit 05
+    - [x] ret Outfit 06
+    - [x] ret Outfit 07
     - [x] ret OutfitBelt 01
     - [x] ret OutfitBelt 02
     - [x] ret OutfitBelt 03
 
 Bodyslide edit RoboLeg and SynthArm:
     - [x] ret Outfit 01
-    - [ ] ret Outfit 02
+    - [x] ret Outfit 02
     - [x] ret Outfit 03
     - [x] ret Outfit 04
-    - [ ] ret Outfit 05
-    - [ ] ret Outfit 06
-    - [ ] ret Outfit 07
+    - [x] ret Outfit 05
+    - [x] ret Outfit 06
+    - [x] ret Outfit 07
+    - [ ] ret Outfit 01_1st[^opt]
+    - [x] ret Outfit 02_1st[^opt]
 
 FO4edit AWKCR and VIS-G:
-    - [ ] ret Hood
+    - [x] ret Hood
     - [ ] ret Mask
-    - [ ] ret Outfit
+    - [x] ret Outfit
     - [x] ret Gloves
 
 KWDA
@@ -45,8 +47,8 @@ AEC_ma_armor_Glove [KYWD:100008A9]
 
 - outfit:
 ma_Railroad_ClothingArmor [KYWD:0020DE40]
-_ClothesTypeUnderarmor_Slot33 [KYWD:0800080A]
-_ClothingClassVault-Tec [KYWD:08000817]
+_ClothesTypeClothing_Slot33 [KYWD:08000807]
+_ClothingClassInstitute [KYWD:08000818]
 AEC_ma_armor_Lining [KYWD:230008A4]
 AEC_ma_armor_Addon [KYWD:230008A8]
 
@@ -73,3 +75,4 @@ Applicable VIS-G sorting:
 [2e Headband]
 [2a Masked Helmet]
 `
+[^opt]: Might just use full gloves for "radiation resist" reasons.
