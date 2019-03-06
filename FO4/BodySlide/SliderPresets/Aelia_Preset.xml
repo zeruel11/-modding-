@@ -10,6 +10,7 @@
         <Group name="Fusion Girl"/>
         <Group name="Shino_VaultSuit"/>
         <Group name="TheKite_Handmaiden"/>
+        <Group name="CROSS_IEX"/>
         <SetSlider name="AbDefinition" size="big" value="70"/>
         <SetSlider name="Ankle Size" size="big" value="15"/>
         <SetSlider name="Armpit Ajustment" size="big" value="15"/>
@@ -80,6 +81,7 @@
         <Group name="Fusion Girl"/>
         <Group name="Shino_VaultSuit"/>
         <Group name="TheKite_Handmaiden"/>
+        <Group name="CROSS_IEX"/>
         <SetSlider name="AbDefinition" size="big" value="70"/>
         <SetSlider name="Ankle Size" size="big" value="15"/>
         <SetSlider name="Armpit Ajustment" size="big" value="15"/>
