@@ -13,7 +13,7 @@ Darker Night + WestTek Tactical[^BEBDE78F]
 New Calibers + VIS-G Item Sorting (and maybe VIS-G Legendary)[^378F4450]
 Smokable Cigars (Hardcore Patch) + VIS-G[^3ECF7B48]
 Fortaleza Armor (+AE) + VIS-G[^C538C2B1]
-CROSS_2077 + CROSS_HandMaiden + Fortaleza + Shino_VaultPack _UniquePC_ + _armorConversion_[^43F8030E]
+CROSS_2077 + CROSS_HandMaiden + Fortaleza + Shino_VaultPack + CROSS_InstituteExeditionarySuit _UniquePC_ + _armorConversion_[^43F8030E]
 More Smarter Companions Mod + Creative Perks[^18EE74EF]
 MAID Assaultron + Humanoid Assaultrons[^22E1BF3C]
 
@@ -33,7 +33,8 @@ MAID Assaultron + Humanoid Assaultrons[^22E1BF3C]
     - [x] CROSS 2077
     - [x] CROSS TheKite_HandMaiden
     - [ ] Fortaleza Armor
-    - [ ] Shino Vault Pack
+    - [x] Shino Vault Pack
+    - [ ] CROSS Institute Ex
 [^18EE74EF]: Modifies some NPC data to better match UF4P and used Eli's Courser outfit. Also changes some companion perk bonus with More Smarter Companion.
 [^22E1BF3C]: Combined workbench edits. Also added head laser enchantments to MAID head.
 

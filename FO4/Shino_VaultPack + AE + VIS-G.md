@@ -14,7 +14,7 @@ Bodyslide edit RoboLeg and SynthArm:
     - [x] Vault Half-Open
     - [x] Vault Open
     - [x] Vault Open Sexy
-    - [ ] 1st person Closed
+    - [x] 1st person Closed
 
 KWDA
 ma_Railroad_ClothingArmor [KYWD:0020DE40]
@@ -32,6 +32,7 @@ AEC_ap_Addon "Add-on Mod" [KYWD:230008A5]
 List of usable instance naming:
 
 `
+(1k Vault-Tec)
 [2l Bandana]
 [2o Cyber]
 [6e Jacket]
