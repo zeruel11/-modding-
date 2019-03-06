@@ -4,3 +4,4 @@ myCompatibilityPatches.esp.backup.2019_03_04_20_04_25 >> pre shino KWDA patch
 myCompatibilityPatches.esp.backup.2019_03_05_13_16_55 >> pre More Smarter Companion edit
 myCompatibilityPatches.esp.backup.2019_03_05_18_03_01 >> pre MAID Automatron VIS-G-ifier
 myCompatibilityPatches.esp.backup.2019_03_07_00_51_45 >> pre CROSS IEX AWKCR edit
+myCompatibilityPatches.esp.backup.2019_03_07_01_34_22 >> pre CROSS Blades VIS-G-ifier

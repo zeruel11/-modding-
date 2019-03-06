@@ -16,6 +16,7 @@ Fortaleza Armor (+AE) + VIS-G[^C538C2B1]
 CROSS_2077 + CROSS_HandMaiden + Fortaleza + Shino_VaultPack + CROSS_InstituteExeditionarySuit _UniquePC_ + _armorConversion_[^43F8030E]
 More Smarter Companions Mod + Creative Perks[^18EE74EF]
 MAID Assaultron + Humanoid Assaultrons[^22E1BF3C]
+CROSS_Blades + VIS-G[]
 
 [^4652CD7D]: Moved COBJ to AWKCR workbenches and uses VIS-G sorting. Manual armor KWDA edit needed, needs doing:
     - [x] Vault Closed
@@ -37,5 +38,11 @@ MAID Assaultron + Humanoid Assaultrons[^22E1BF3C]
     - [ ] CROSS Institute Ex
 [^18EE74EF]: Modifies some NPC data to better match UF4P and used Eli's Courser outfit. Also changes some companion perk bonus with More Smarter Companion.
 [^22E1BF3C]: Combined workbench edits. Also added head laser enchantments to MAID head.
+[]: Give back CROSS naming and balance to VIS-G sorting:
+    - [x] Plasma Katana... [4da Katana] _WeaponMeleeClass_Katana [KYWD:08000F09]
+    - [x] Plasma Throwing Knife... (Grenade) _WeaponType_Thrown [KYWD:08000959]
+    - [x] Plasma Throwing Knife (Unpowered)... (Grenade) _WeaponType_Thrown [KYWD:08000959]
+    - [x] Laser Sword... [4d Sword]
+    - [ ] Crucible Blade...
 
 ## bashedPatch (tags)
