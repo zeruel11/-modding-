@@ -5,3 +5,5 @@
 *.bgsm filter=lfs diff=lfs merge=lfs -text
 *.BGSE filter=lfs diff=lfs merge=lfs -text
 *.bgse filter=lfs diff=lfs merge=lfs -text
+*.osd filter=lfs diff=lfs merge=lfs -text
+*.osp filter=lfs diff=lfs merge=lfs -text

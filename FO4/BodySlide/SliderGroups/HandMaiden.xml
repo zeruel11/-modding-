@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderGroups>
+    <Group name="DrPhibbs-NeuroAtom_Handmaiden">
+        <Member name="DPNAL Both Limbs Handmaiden f01"/>
+        <Member name="DPNAL Both Limbs Handmaiden f02"/>
+        <Member name="DPNAL Both Limbs Handmaiden f03"/>
+        <Member name="DPNAL Both Limbs Handmaiden f04"/>
+        <Member name="DPNAL Both Limbs Handmaiden f05"/>
+        <Member name="DPNAL Both Limbs Handmaiden f06"/>
+        <Member name="DPNAL Both Limbs Handmaiden m01"/>
+        <Member name="DPNAL Both Limbs Handmaiden m02"/>
+        <Member name="DPNAL RoboLeg Handmaiden f01"/>
+        <Member name="DPNAL RoboLeg Handmaiden f02"/>
+        <Member name="DPNAL RoboLeg Handmaiden f03"/>
+        <Member name="DPNAL RoboLeg Handmaiden f04"/>
+        <Member name="DPNAL RoboLeg Handmaiden f05"/>
+        <Member name="DPNAL RoboLeg Handmaiden f06"/>
+        <Member name="DPNAL RoboLeg Handmaiden m01"/>
+        <Member name="DPNAL RoboLeg Handmaiden m02"/>
+        <Member name="DPNAL SynthArm Handmaiden f01"/>
+        <Member name="DPNAL SynthArm Handmaiden f02"/>
+        <Member name="DPNAL SynthArm Handmaiden f03"/>
+        <Member name="DPNAL SynthArm Handmaiden f04"/>
+        <Member name="DPNAL SynthArm Handmaiden f05"/>
+        <Member name="DPNAL SynthArm Handmaiden f06"/>
+        <Member name="DPNAL SynthArm Handmaiden m01"/>
+        <Member name="DPNAL SynthArm Handmaiden m02"/>
+    </Group>
+    <Group name="TheKite_Handmaiden">
+        <Member name="TheKite_HM_ex_01_straps"/>
+        <Member name="TheKite_HM_ex_02_underwear"/>
+        <Member name="TheKite_HM_oc01_closed"/>
+        <Member name="TheKite_HM_oc01_open"/>
+        <Member name="TheKite_HM_oc01_Sleeves"/>
+        <Member name="TheKite_HM_oc01_Sleeves_1st"/>
+        <Member name="TheKite_HM_oc02_closed"/>
+        <Member name="TheKite_HM_oc02_open"/>
+        <Member name="TheKite_HM_oc03_closed"/>
+        <Member name="TheKite_HM_oc03_open"/>
+        <Member name="TheKite_HM_UA01"/>
+        <Member name="TheKite_HM_UA02"/>
+        <Member name="TheKite_HM_UA03"/>
+        <Member name="TheKite_HM_UA04"/>
+        <Member name="TheKite_HM_UA05"/>
+        <Member name="TheKite_HM_UA06"/>
+    </Group>
+</SliderGroups>

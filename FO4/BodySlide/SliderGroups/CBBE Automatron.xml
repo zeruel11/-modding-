@@ -1,0 +1,38 @@
+<SliderGroups>
+    <Group name="CBBE">
+        <Member name="CBBE Automatron - Mechanist"/>
+        <Member name="CBBE Automatron - Robo Armor - Arm Heavy L"/>
+        <Member name="CBBE Automatron - Robo Armor - Arm Heavy R"/>
+        <Member name="CBBE Automatron - Robo Armor - Arm Light L"/>
+        <Member name="CBBE Automatron - Robo Armor - Arm Light R"/>
+        <Member name="CBBE Automatron - Robo Armor - Arm Medium L"/>
+        <Member name="CBBE Automatron - Robo Armor - Arm Medium R"/>
+        <Member name="CBBE Automatron - Robo Armor - Leg Heavy L"/>
+        <Member name="CBBE Automatron - Robo Armor - Leg Heavy R"/>
+        <Member name="CBBE Automatron - Robo Armor - Leg Light L"/>
+        <Member name="CBBE Automatron - Robo Armor - Leg Light R"/>
+        <Member name="CBBE Automatron - Robo Armor - Leg Medium L"/>
+        <Member name="CBBE Automatron - Robo Armor - Leg Medium R"/>
+        <Member name="CBBE Automatron - Robo Armor - Torso Heavy"/>
+        <Member name="CBBE Automatron - Robo Armor - Torso Light"/>
+        <Member name="CBBE Automatron - Robo Armor - Torso Medium"/>
+    </Group>
+    <Group name="CBBE Vanilla Outfits">
+        <Member name="CBBE Automatron - Mechanist"/>
+        <Member name="CBBE Automatron - Robo Armor - Arm Heavy L"/>
+        <Member name="CBBE Automatron - Robo Armor - Arm Heavy R"/>
+        <Member name="CBBE Automatron - Robo Armor - Arm Light L"/>
+        <Member name="CBBE Automatron - Robo Armor - Arm Light R"/>
+        <Member name="CBBE Automatron - Robo Armor - Arm Medium L"/>
+        <Member name="CBBE Automatron - Robo Armor - Arm Medium R"/>
+        <Member name="CBBE Automatron - Robo Armor - Leg Heavy L"/>
+        <Member name="CBBE Automatron - Robo Armor - Leg Heavy R"/>
+        <Member name="CBBE Automatron - Robo Armor - Leg Light L"/>
+        <Member name="CBBE Automatron - Robo Armor - Leg Light R"/>
+        <Member name="CBBE Automatron - Robo Armor - Leg Medium L"/>
+        <Member name="CBBE Automatron - Robo Armor - Leg Medium R"/>
+        <Member name="CBBE Automatron - Robo Armor - Torso Heavy"/>
+        <Member name="CBBE Automatron - Robo Armor - Torso Light"/>
+        <Member name="CBBE Automatron - Robo Armor - Torso Medium"/>
+    </Group>
+</SliderGroups>

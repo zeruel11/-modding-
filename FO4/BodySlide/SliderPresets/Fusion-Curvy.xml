@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="Fusion-Curvy" set="ZeX-FusionGirl">
+        <Group name="Fusion Girl"/>
+        <SetSlider name="Ankle Size" size="big" value="10"/>
+        <SetSlider name="Armpit Ajustment" size="big" value="15"/>
+        <SetSlider name="Arms Chubby" size="big" value="30"/>
+        <SetSlider name="Arms Size" size="big" value="5"/>
+        <SetSlider name="Back Arch" size="big" value="5"/>
+        <SetSlider name="Back Size" size="big" value="5"/>
+        <SetSlider name="Belly Big" size="big" value="35"/>
+        <SetSlider name="Belly Size" size="big" value="25"/>
+        <SetSlider name="Boobs Big" size="big" value="45"/>
+        <SetSlider name="Boobs Push Up" size="big" value="35"/>
+        <SetSlider name="Boobs Together" size="big" value="25"/>
+        <SetSlider name="Bum Apple" size="big" value="15"/>
+        <SetSlider name="Bum Chubby" size="big" value="40"/>
+        <SetSlider name="Bum Crack" size="big" value="35"/>
+        <SetSlider name="Bum Size" size="big" value="56"/>
+        <SetSlider name="Calf Size" size="big" value="20"/>
+        <SetSlider name="Chest Depth" size="big" value="15"/>
+        <SetSlider name="Chest Width" size="big" value="15"/>
+        <SetSlider name="Forearms Size" size="big" value="15"/>
+        <SetSlider name="Hips Bone" size="big" value="10"/>
+        <SetSlider name="Hips Size" size="big" value="5"/>
+        <SetSlider name="Hips Upper Width" size="big" value="29"/>
+        <SetSlider name="Legs Chubby" size="big" value="39"/>
+        <SetSlider name="Nipples Distance" size="big" value="25"/>
+        <SetSlider name="Nipples Shape" size="big" value="15"/>
+        <SetSlider name="Nipples Size" size="big" value="36"/>
+        <SetSlider name="Thighs Size" size="big" value="40"/>
+        <SetSlider name="Torso Size" size="big" value="45"/>
+        <SetSlider name="Waist Chubby" size="big" value="10"/>
+        <SetSlider name="Waist Height" size="big" value="15"/>
+        <SetSlider name="Waist Size" size="big" value="52"/>
+    </Preset>
+</SliderPresets>

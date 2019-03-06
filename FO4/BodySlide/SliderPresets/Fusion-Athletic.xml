@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="Fusion-Athletic" set="ZeX-FusionGirl">
+        <SetSlider name="AbDefinition" size="big" value="80"/>
+        <SetSlider name="Armpit Ajustment" size="big" value="32"/>
+        <SetSlider name="Arms Chubby" size="big" value="33"/>
+        <SetSlider name="Arms Size" size="big" value="15"/>
+        <SetSlider name="Back Arch" size="big" value="22"/>
+        <SetSlider name="Belly Tuck" size="big" value="2"/>
+        <SetSlider name="Body Toning" size="big" value="15"/>
+        <SetSlider name="Boobs Flat" size="big" value="3"/>
+        <SetSlider name="Boobs Mellons" size="big" value="36"/>
+        <SetSlider name="Boobs Perky" size="big" value="14"/>
+        <SetSlider name="Boobs Small" size="big" value="15"/>
+        <SetSlider name="Boobs Together" size="big" value="20"/>
+        <SetSlider name="Bum Chubby" size="big" value="16"/>
+        <SetSlider name="Bum Shape 1" size="big" value="50"/>
+        <SetSlider name="Bum Size" size="big" value="25"/>
+        <SetSlider name="Calf Size" size="big" value="20"/>
+        <SetSlider name="Chest Depth" size="big" value="10"/>
+        <SetSlider name="Forearms Size" size="big" value="28"/>
+        <SetSlider name="Groin Back" size="big" value="52"/>
+        <SetSlider name="Legs Thin" size="big" value="10"/>
+        <SetSlider name="Nipples Distance" size="big" value="5"/>
+        <SetSlider name="Nipples Down" size="big" value="45"/>
+        <SetSlider name="Nipples Perkiness" size="big" value="11"/>
+        <SetSlider name="Nipples Puffy" size="big" value="16"/>
+        <SetSlider name="Shoulder Tweak" size="big" value="9"/>
+        <SetSlider name="Thighs Size" size="big" value="17"/>
+        <SetSlider name="Torso Size" size="big" value="8"/>
+        <SetSlider name="Waist Chubby" size="big" value="18"/>
+        <SetSlider name="Waist Size" size="big" value="18"/>
+    </Preset>
+</SliderPresets>

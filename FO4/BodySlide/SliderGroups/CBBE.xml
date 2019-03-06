@@ -1,0 +1,12 @@
+<SliderGroups>
+    <Group name="CBBE">
+        <Member name="CBBE Body"/>
+        <Member name="CBBE Body Physics"/>
+        <Member name="CBBE NeverNude"/>
+    </Group>
+    <Group name="CBBE Bodies">
+        <Member name="CBBE Body"/>
+        <Member name="CBBE Body Physics"/>
+        <Member name="CBBE NeverNude"/>
+    </Group>
+</SliderGroups>
