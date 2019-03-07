@@ -18,6 +18,7 @@ More Smarter Companions Mod + Creative Perks[^18EE74EF]
 MAID Assaultron + Humanoid Assaultrons[^22E1BF3C]
 CROSS_Blades + VIS-G[^8C461351]
 VIS-G various mod setting holotapes & aids[^91E0ADE0]
+Widow Shotgun + AWKCR_VIS-G + New Calibers[^1C9C6C03]
 
 [^4652CD7D]: Moved COBJ to AWKCR workbenches and uses VIS-G sorting. Manual armor KWDA edit needed, needs doing:
     - [x] Vault Closed
@@ -46,5 +47,15 @@ VIS-G various mod setting holotapes & aids[^91E0ADE0]
     - [x] Laser Sword... [4d Sword]
     - [ ] Crucible Blade...
 [^91E0ADE0]: Change holotapes/ingestibles FULL to use VIS-G sorting names.
+[^1C9C6C03]: Added AWKCR KWDA keywords and VIS-G sorting:
+    - _WeaponCaliber_12_Gauge [KYWD:0800087A]
+    - _WeaponGunClass_Shotgun [KYWD:08000BE4]
+    - ma_OrnamentalWeapons [KYWD:08001B6B]
+    - ma_12gShotgun [KYWD:0B04E114]
+APPR:
+    - ap_Weapon_Condition "Condition" [KYWD:08000F13]
+    - ap_Gun_Caliber "Caliber" [KYWD:080008AE]
+Also added New Calibers caliber mods OBTE:
+    - modcol_12gShotgun_Ammo_All [OMOD:0B00A7ED]
 
 ## bashedPatch (tags)
