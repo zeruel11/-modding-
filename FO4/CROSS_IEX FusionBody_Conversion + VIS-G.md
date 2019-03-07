@@ -1,6 +1,6 @@
 ###!!!Please remember that FormIDs are subject to change in load order. Change as you see fit!!!
 
-Clothes converting to FusionBody: (needs reconverting due to update!!!)
+Clothes converting to FusionBody:
     - [x] ret Hood
     - [x] ret Outfit Undershirt
     - [x] ret Outfit 01
@@ -16,20 +16,21 @@ Clothes converting to FusionBody: (needs reconverting due to update!!!)
     - [x] ret OutfitBelt 02
     - [x] ret OutfitBelt 03
 
-Bodyslide edit RoboLeg and SynthArm:
-    - [x] ret Outfit 01
-    - [x] ret Outfit 02
-    - [x] ret Outfit 03
+####Still needs to edit gloves and jacket parts that connect to hand
+Bodyslide edit RoboLeg and SynthArm: (use the body but zap it)
+    - [ ] ret Outfit 01
+    - [ ] ret Outfit 02
+    - [ ] ret Outfit 03
     - [x] ret Outfit 04
-    - [x] ret Outfit 05
-    - [x] ret Outfit 06
+    - [ ] ret Outfit 05
+    - [ ] ret Outfit 06
     - [x] ret Outfit 07
     - [ ] ret Outfit 01_1st[^opt]
-    - [x] ret Outfit 02_1st[^opt]
+    - [ ] ret Outfit 02_1st[^opt]
 
 FO4edit AWKCR and VIS-G:
     - [x] ret Hood
-    - [ ] ret Mask
+    - [x] ret Mask
     - [x] ret Outfit
     - [x] ret Gloves
 
