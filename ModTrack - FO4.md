@@ -38,6 +38,7 @@ Widow Shotgun + AWKCR_VIS-G + New Calibers[^1C9C6C03]
     - [ ] Fortaleza Armor
     - [x] Shino Vault Pack
     - [ ] CROSS Institute Ex
+Rebuild 2077, HandMaiden, and Shino Vault Pack bodyslide files with full ZeX body to avoid glitches.
 [^18EE74EF]: Modifies some NPC data to better match UF4P and used Eli's Courser outfit. Also changes some companion perk bonus with More Smarter Companion.
 [^22E1BF3C]: Combined workbench edits. Also added head laser enchantments to MAID head.
 [^8C461351]: Give back CROSS naming and balance to VIS-G sorting: (FULL is unneeded if using INRD dn_CommonMelee)
