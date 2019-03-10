@@ -19,6 +19,7 @@ MAID Assaultron + Humanoid Assaultrons[^22E1BF3C]
 CROSS_Blades + VIS-G[^8C461351]
 VIS-G various mod setting holotapes & aids[^91E0ADE0]
 Widow Shotgun + AWKCR_VIS-G + New Calibers[^1C9C6C03]
+CROSS_Archimedes_II + AWKCR+VIS-G[^F4B564C9]
 
 [^4652CD7D]: Moved COBJ to AWKCR workbenches and uses VIS-G sorting. Manual armor KWDA edit needed, needs doing:
     - [x] Vault Closed
@@ -58,5 +59,6 @@ APPR:
     - ap_Gun_Caliber "Caliber" [KYWD:080008AE]
 Also added New Calibers caliber mods OBTE:
     - modcol_12gShotgun_Ammo_All [OMOD:0B00A7ED]
+[^F4B564C9]: Added AWKCR KWDA.
 
 ## bashedPatch (tags)
