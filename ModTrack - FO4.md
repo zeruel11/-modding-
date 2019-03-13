@@ -38,7 +38,7 @@ CROSS_Archimedes_II + AWKCR+VIS-G[^F4B564C9]
     - [x] CROSS TheKite_HandMaiden
     - [ ] Fortaleza Armor
     - [x] Shino Vault Pack
-    - [ ] CROSS Institute Ex
+    - [ ] CROSS Institute Ex (unneeded)
 Rebuild 2077, HandMaiden, and Shino Vault Pack bodyslide files with full ZeX body to avoid glitches.
 [^18EE74EF]: Modifies some NPC data to better match UF4P and used Eli's Courser outfit. Also changes some companion perk bonus with More Smarter Companion.
 [^22E1BF3C]: Combined workbench edits. Also added head laser enchantments to MAID head.

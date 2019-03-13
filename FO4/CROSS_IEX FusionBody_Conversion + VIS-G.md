@@ -17,7 +17,7 @@ Clothes converting to FusionBody:
     - [x] ret OutfitBelt 03
 
 ####Still needs to edit gloves and jacket parts that connect to hand
-Bodyslide edit RoboLeg and SynthArm: (use the body but zap it)
+Bodyslide edit RoboLeg and SynthArm: (use the body but zap it) - also includes editing ARMA 1st person
     - [ ] ret Outfit 01
     - [ ] ret Outfit 02
     - [ ] ret Outfit 03
