@@ -20,6 +20,7 @@ CROSS_Blades + VIS-G[^8C461351]
 VIS-G various mod setting holotapes & aids[^91E0ADE0]
 Widow Shotgun + AWKCR_VIS-G + New Calibers[^1C9C6C03]
 CROSS_Archimedes_II + AWKCR+VIS-G[^F4B564C9]
+SimSettlement + AWKCR + AE + VIS-G hugePatch[^36EB201B]
 
 [^4652CD7D]: Moved COBJ to AWKCR workbenches and uses VIS-G sorting. Manual armor KWDA edit needed, needs doing:
     - [x] Vault Closed
@@ -60,5 +61,6 @@ APPR:
 Also added New Calibers caliber mods OBTE:
     - modcol_12gShotgun_Ammo_All [OMOD:0B00A7ED]
 [^F4B564C9]: Added AWKCR KWDA.
+[^36EB201B]: Changed a lot of names to follow new VIS-G sorting. Overrides taken from [Sim Settlements VIS-G Patch v1.0-33383-2-4-1539543979](https://www.nexusmods.com/fallout4/mods/33383) and [Kinggath VISGified-37935-1-00-1552394872](https://www.nexusmods.com/fallout4/mods/37935) respectively. Last EDID record is: kgSIM_NewBugle_Wave2_WakeUpCommonwealth
 
 ## bashedPatch (tags)
