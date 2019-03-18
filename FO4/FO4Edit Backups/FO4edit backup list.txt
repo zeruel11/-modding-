@@ -8,3 +8,4 @@ myCompatibilityPatches.esp.backup.2019_03_07_01_34_22 >> pre CROSS Blades VIS-G-
 myCompatibilityPatches.esp.backup.2019_03_07_15_45_57 >> pre Widow Shotgun modified
 myCompatibilityPatches.esp.backup.2019_03_15_18_11_09 >> pre SimSettlements patch
 myCompatibilityPatches.esp.backup.2019_03_16_03_52_50 >> pre Power Armor Vertibird AWKCR VIS-G ifier
+myCompatibilityPatches.esp.backup.2019_03_18_15_32_47 >> pre killmoves merge

@@ -1,8 +1,12 @@
-# MasterList Plugin Edit
+# MasterList Mod Ideas
 
-1. Hunterborn[^B71926F1]
+1. Archimedes-II Finder[^CEFF2D7D].
+2. Make killmoves easier and frequent perform[^8F4C28EF].
 
-[^B71926F1]: Removed perk `_DS_Perk_Botany` for compatibility with Ordinator's Experimenter perk
+[^CEFF2D7D]: Make easier to switch between different firing modes. Try console:
+`player.cf CROSS_sol_GunMenuScript`
+
+[^8F4C28EF]: Apply changes to killmoves using mods [Sync Kill Animations a.k.a Killmoves for all Humanoid races](https://www.nexusmods.com/fallout4/mods/15408), [Bashing killmoves enabled](https://www.nexusmods.com/fallout4/mods/13370), and [Better killmove frequency](https://www.nexusmods.com/fallout4/mods/12673).
 
 ## myCompatibilityPatch
 
