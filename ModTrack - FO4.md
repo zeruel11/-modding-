@@ -2,11 +2,13 @@
 
 1. Archimedes-II Finder[^CEFF2D7D].
 2. Make killmoves easier and frequent perform[^8F4C28EF].
+3. Holster and Sheaths + VIS-G _personalEdit_ _VisibleWeapon_[^126B11E2].
 
-[^CEFF2D7D]: Make easier to switch between different firing modes. Try console:
-`player.cf CROSS_sol_GunMenuScript`
-
+[^CEFF2D7D]: Make easier to switch between different firing modes. Try console:`player.cf CROSS_sol_GunMenuScript`
 [^8F4C28EF]: Apply changes to killmoves using mods [Sync Kill Animations a.k.a Killmoves for all Humanoid races](https://www.nexusmods.com/fallout4/mods/15408), [Bashing killmoves enabled](https://www.nexusmods.com/fallout4/mods/13370), and [Better killmove frequency](https://www.nexusmods.com/fallout4/mods/12673).
+[^126B11E2]: Modify weapon model to also use holster models and add material keywords to said models. Also added VIS-G tagging.
+Last edited record:
+Last edited model:
 
 ## myCompatibilityPatch
 
@@ -20,12 +22,14 @@ Fortaleza Armor (+AE) + VIS-G[^C538C2B1]
 CROSS_2077 + CROSS_HandMaiden + Fortaleza + Shino_VaultPack + CROSS_InstituteExeditionarySuit _UniquePC_ + _armorConversion_[^43F8030E]
 More Smarter Companions Mod + Creative Perks[^18EE74EF]
 MAID Assaultron + Humanoid Assaultrons[^22E1BF3C]
-~~CROSS_Blades + VIS-G~~[^8C461351] `I am probably gonna uninstall this, the sword doesn't work as I had hoped and the throwing knives are rather hard to use since they have no projectiles. Also found better alternatives for swords.`
+~~CROSS_Blades + VIS-G~~ [^8C461351] `I am probably gonna uninstall this, the sword doesn't work as I had hoped and the throwing knives are rather hard to use since they have no projectiles. Also found better alternatives for swords.`
 VIS-G various mod setting holotapes & aids[^91E0ADE0]
 Widow Shotgun + AWKCR_VIS-G + New Calibers[^1C9C6C03]
 CROSS_Archimedes_II + AWKCR+VIS-G[^F4B564C9]
 SimSettlement + AWKCR + AE + VIS-G hugePatch[^36EB201B]
+More Where That Came From + Reverb and Ambiance Overhaul[^F3DDBBD1]
 
+[^F3DDBBD1]: Changed radio station sound mapping to follow Reverb and Ambiance Overhaul.
 [^4652CD7D]: Moved COBJ to AWKCR workbenches and uses VIS-G sorting. Manual armor KWDA edit needed, needs doing:
     - [x] Vault Closed
     - [x] Vault Top Open
@@ -53,7 +57,6 @@ Rebuild 2077, HandMaiden, and Shino Vault Pack bodyslide files with full ZeX bod
     - [x] Plasma Throwing Knife (Unpowered)... (Grenade) _WeaponType_Thrown [KYWD:08000959]
     - [x] Laser Sword... [4d Sword]
     - [ ] Crucible Blade...a
-    - [ ]
 [^91E0ADE0]: Change holotapes/ingestibles FULL to use VIS-G sorting names.
 [^1C9C6C03]: Added AWKCR KWDA keywords and VIS-G sorting:
     - _WeaponCaliber_12_Gauge [KYWD:0800087A]
