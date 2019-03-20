@@ -10,3 +10,4 @@ myCompatibilityPatches.esp.backup.2019_03_15_18_11_09 >> pre SimSettlements patc
 myCompatibilityPatches.esp.backup.2019_03_16_03_52_50 >> pre Power Armor Vertibird AWKCR VIS-G ifier
 myCompatibilityPatches.esp.backup.2019_03_18_15_32_47 >> pre killmoves merge
 myCompatibilityPatches.esp.backup.2019_03_18_21_03_17 >> pre Gatling Ammo fix AWKCR VIS-G
+myCompatibilityPatches.esp.backup.2019_03_20_19_23_46 >> pre Remote Explosives AWKCR VIS-G
