@@ -8,7 +8,7 @@
 [^CEFF2D7D]: Make easier to switch between different firing modes. Try console:`player.cf CROSS_sol_GunMenuScript`
 [^8F4C28EF]: Apply changes to killmoves using mods [Sync Kill Animations a.k.a Killmoves for all Humanoid races](https://www.nexusmods.com/fallout4/mods/15408), [Bashing killmoves enabled](https://www.nexusmods.com/fallout4/mods/13370), and [Better killmove frequency](https://www.nexusmods.com/fallout4/mods/12673).
 [^126B11E2]: Modify weapon model to also use holster models and add material keywords to said models. Also added VIS-G tagging.
-Last edited record:
+Last edited record: ARMA - AA_TNH_Tanto, changed BOD2=54. ARMO - AO_TNH_Tanto_Sheath, changed BOD2=54.
 Last edited model:
 [^A0120CD7]: Edit craftable ammunition to use AWKCR workbenches.
 
