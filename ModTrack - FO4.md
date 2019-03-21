@@ -21,7 +21,7 @@ Darker Night + WestTek Tactical[^BEBDE78F]
 New Calibers + VIS-G Item Sorting (and maybe VIS-G Legendary)[^378F4450]
 Smokable Cigars (Hardcore Patch) + VIS-G[^3ECF7B48]
 Fortaleza Armor (+AE) + VIS-G[^C538C2B1]
-CROSS_2077 + CROSS_HandMaiden + Fortaleza + Shino_VaultPack + CROSS_InstituteExeditionarySuit _UniquePC_ + _armorConversion_[^43F8030E]
+CROSS_2077 + CROSS_HandMaiden + Fortaleza + Shino_VaultPack + CROSS_IEX + CROSS_CoA _UniquePC_ + _armorConversion_[^43F8030E]
 More Smarter Companions Mod + Creative Perks[^18EE74EF]
 MAID Assaultron + Humanoid Assaultrons[^22E1BF3C]
 ~~CROSS_Blades + VIS-G~~ [^8C461351] `I am probably gonna uninstall this, the sword doesn't work as I had hoped and the throwing knives are rather hard to use since they have no projectiles. Also found better alternatives for swords.`
@@ -47,10 +47,11 @@ More Where That Came From + Reverb and Ambiance Overhaul[^F3DDBBD1]
 [^43F8030E]: Changing 1st person body to use Unique PC synth arm:
     - [x] CROSS 2077
     - [x] CROSS TheKite_HandMaiden
+    - [x] CROSS Chosen of Atom (optional)
     - [ ] Fortaleza Armor
     - [x] Shino Vault Pack
     - [ ] CROSS Institute Ex (unneeded)
-Rebuild 2077, HandMaiden, and Shino Vault Pack bodyslide files with full ZeX body to avoid glitches.
+Rebuild 2077, HandMaiden, and Shino Vault Pack bodyslide files with full ZeX body to avoid glitches. Also changed records to VIS-G tags.
 [^18EE74EF]: Modifies some NPC data to better match UF4P and used Eli's Courser outfit. Also changes some companion perk bonus with More Smarter Companion.
 [^22E1BF3C]: Combined workbench edits. ~~Also added head laser enchantments to MAID head.~~No longer needed due to [MAID Assaultron Head Laser Ability](https://www.nexusmods.com/fallout4/mods/37613).
 [^8C461351]: Give back CROSS naming and balance to VIS-G sorting: (FULL is unneeded if using INRD dn_CommonMelee)
