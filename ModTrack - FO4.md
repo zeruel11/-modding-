@@ -3,14 +3,14 @@
 1. Archimedes-II Finder[^CEFF2D7D].
 2. Make killmoves easier and frequent perform[^8F4C28EF].
 3. Holster and Sheaths + VIS-G _personalEdit_ _VisibleWeapon_[^126B11E2].
-4. Make craftable ammo for New Calibers using [New Calibers Reload (RELOAD_RELOAD.esp)](https://www.nexusmods.com/fallout4/mods/32277) as a base[^A0120CD7].
+4. ~~Make craftable ammo for New Calibers~~_shelvedForNow_ using [New Calibers Reload (RELOAD_RELOAD.esp)](https://www.nexusmods.com/fallout4/mods/32277) as a base[^A0120CD7].
 
 [^CEFF2D7D]: Make easier to switch between different firing modes. Try console:`player.cf CROSS_sol_GunMenuScript`
 [^8F4C28EF]: Apply changes to killmoves using mods [Sync Kill Animations a.k.a Killmoves for all Humanoid races](https://www.nexusmods.com/fallout4/mods/15408), [Bashing killmoves enabled](https://www.nexusmods.com/fallout4/mods/13370), and [Better killmove frequency](https://www.nexusmods.com/fallout4/mods/12673).
-[^126B11E2]: Modify weapon model to also use holster models and add material keywords to said models. Also added VIS-G tagging.
-Last edited record: ARMA - AA_TNH_Tanto, changed BOD2=54. ARMO - AO_TNH_Tanto_Sheath, changed BOD2=54.
-Last edited model:
-[^A0120CD7]: Edit craftable ammunition to use AWKCR workbenches.
+[^126B11E2]: Modify weapon model to also use holster models and add material keywords to said models. Also added VIS-G tagging. Need to change BOD2=54 for both ARMA and ARMO, and add sheath material APPR.
+Last edited record: ARMA - AA_TNH_Tanto, ARMO - AO_TNH_Tanto_Sheath
+Last edited model: Tanto_F.nif
+[^A0120CD7]: Edit craftable ammunition to use AWKCR workbenches.`might not actually go forward, too many records if using overwrites and too complex to just make new records`
 
 ## myCompatibilityPatch
 
