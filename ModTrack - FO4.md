@@ -10,7 +10,8 @@
 [^126B11E2]: Modify weapon model to also use holster models and add material keywords to said models. Also added VIS-G tagging. Need to change BOD2=54 for both ARMA and ARMO, and add sheath material APPR.
 Last edited record: ARMA - AA_TNH_Tanto, ARMO - AO_TNH_Tanto_Sheath
 Last edited model: Tanto_F.nif
-[^A0120CD7]: Edit craftable ammunition to use AWKCR workbenches.`might not actually go forward, too many records if using overwrites and too complex to just make new records`
+[^A0120CD7]: Edit craftable ammunition to use AWKCR workbenches. Plugin name is `NewCaliber_AWKCR_VISG.esp`. See separate docs for more info.
+    `might not actually go forward, too many records if using overwrites and too complex to just make new records`
 
 ## myCompatibilityPatch
 
