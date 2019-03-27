@@ -1,6 +1,7 @@
 
 Todo:
-  ☐ added confirmation for rsync mods
+  ✔ added confirmation for rsync mods @done(19-03-27 16:03)
+  ✔ fix rsync to use shasum @high @started(19-03-27 14:03) @done(19-03-27 17:22) @lasted(3h19m10s)
   FO4:
     ☐ change linking in main FO4 modTrack @today 
     ☐ removed unecessarry files in branches (except master)
