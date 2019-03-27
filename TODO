@@ -1,11 +1,13 @@
 
 Todo:
-  ☐ added confirmation for rsync mods @today 
+  ✔ added confirmation for rsync mods @done(19-03-27 16:03)
+  ✔ fix rsync to use shasum @high @started(19-03-27 14:03) @done(19-03-27 17:22) @lasted(3h19m10s)
   FO4:
-    ☐ change linking in main FO4 modTrack
-    ☐ removed unecessarry files in branches (except master)
+    ☐ change linking in main FO4 modTrack @today 
+    ☐ removed unecessarry files in branches (except master) @high 
+    ☐ make new model for BR77 sheathed @low 
   TESV:
-    ✔ Rebuild database and cache @done(19-03-25 19:35)
+    ✔ Rebuild database and cache @done(19-03-24 20:51)
     ✔ Immersive armors rebuild meshes. Check records and bash patch as needed @done(19-03-24 20:51)
     ✔ Reorganize mod organizer @done(19-03-24 20:51)
     ✔ Rebuild bashedPatch with home settings @done(19-03-24 20:51)
