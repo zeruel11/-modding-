@@ -4,7 +4,7 @@ Todo:
   ✔ fix rsync to use shasum @high @started(19-03-27 14:03) @done(19-03-27 17:22) @lasted(3h19m10s)
   ✔ streamline rsync usage on multiple workspace @started(19-03-28 18:23) @done(19-03-28 21:19) @lasted(2h56m50s)
   FO4:
-    ☐ change linking in main FO4 modTrack @today 
+    ☐ change linking in main FO4 modTrack
     ☐ removed unecessarry files in branches (except master) @low 
   TESV:
     ✔ Rebuild database and cache @done(19-03-24 20:51)
