@@ -19,20 +19,4 @@
         <Member name="CROSSAA_2077_Overcoat01_f"/>
         <Member name="CROSSAA_2077_Overcoat02_f"/>
     </Group>
-    <Group name="CROSS_IEX">
-        <Member name="CROSS_ret_hood_01"/>
-        <Member name="CROSS_ret_outfit_01"/>
-        <Member name="CROSS_ret_outfit_01_1st"/>
-        <Member name="CROSS_ret_outfit_02"/>
-        <Member name="CROSS_ret_outfit_02_1st"/>
-        <Member name="CROSS_ret_outfit_03"/>
-        <Member name="CROSS_ret_outfit_04"/>
-        <Member name="CROSS_ret_outfit_05"/>
-        <Member name="CROSS_ret_outfit_06"/>
-        <Member name="CROSS_ret_outfit_07"/>
-        <Member name="cross_ret_outfitbelt_01"/>
-        <Member name="cross_ret_outfitbelt_02"/>
-        <Member name="cross_ret_outfitbelt_03"/>
-        <Member name="CROSS_ret_outfitUndershirt_01"/>
-    </Group>
 </SliderGroups>
